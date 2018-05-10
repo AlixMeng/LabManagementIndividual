@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace LabManagementIndividual
 {
-    class Lab
+    public class Lab
     {
-        List<Computer> computers;
+        public List<Computer> computers;
         bool projector;
         bool printer;
 

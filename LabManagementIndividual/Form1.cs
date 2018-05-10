@@ -12,14 +12,14 @@ namespace LabManagementIndividual
 {
     public partial class Form1 : Form
     {
-        TestModeForm tm;
+        public TestModeForm tMode;
 
         public Form1()
         {
             InitializeComponent();
             displayButtons();
-            tm = new TestModeForm();
-            tm.Hide();
+            tMode = new TestModeForm();
+            tMode.Show();
         }
 
         public  void displayButtons()
@@ -37,22 +37,40 @@ namespace LabManagementIndividual
                     buttonList.Add((Button)c);
                 }
             }
+            
             int incre = 0;
+       
             foreach (Button b in buttonList)
             {
                 if (b.BackColor == Color.Lime)
                 {
                     incre++;
                 }
+               
             }
             availableC.Text = "Available Computer: " + incre.ToString();
 
         }
 
-        private void testModeButton_Click(object sender, EventArgs e)
+
+        private void refreshB_Click(object sender, EventArgs e)
         {
-            
-            tm.ShowDialog();
+            List<Button> nB = panel1.Controls.OfType<Button>().ToList();
+            for (int i = 0; i < nB.Count; i++)
+            {
+                foreach(Computer c in tMode.aLab.computers)
+                {
+                    if (c.getComputerID().ToString().Equals(nB.ElementAt(i).Text))
+                    {
+                        if (c.getCompStatus())
+                        {
+                            nB.ElementAt(i).BackColor = Color.Lime;
+                        }
+                        else
+                            nB.ElementAt(i).BackColor = Color.Red;
+                    }
+                }
+            }
         }
     }
 }

@@ -9,3 +9,14 @@ E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndi
 E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.pdb
 E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.csprojResolveAssemblyReference.cache
 E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.TestModeForm.resources
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.csprojResolveAssemblyReference.cache
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.Form1.resources
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.Properties.Resources.resources
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.TestModeForm.resources
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.csproj.GenerateResource.Cache
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.csproj.CoreCompileInputs.cache
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.exe
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.pdb
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\bin\Debug\LabManagementIndividual.exe.config
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\bin\Debug\LabManagementIndividual.exe
+C:\Users\haoli\Documents\GitHub\LabManagementIndividual\LabManagementIndividual\bin\Debug\LabManagementIndividual.pdb
