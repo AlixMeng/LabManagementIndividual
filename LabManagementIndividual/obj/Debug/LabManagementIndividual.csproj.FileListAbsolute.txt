@@ -1,0 +1,11 @@
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\bin\Debug\LabManagementIndividual.exe.config
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\bin\Debug\LabManagementIndividual.exe
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\bin\Debug\LabManagementIndividual.pdb
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.Form1.resources
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.Properties.Resources.resources
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.csproj.GenerateResource.cache
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.csproj.CoreCompileInputs.cache
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.exe
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.pdb
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.csprojResolveAssemblyReference.cache
+E:\Document\CSC 834\Individual Project\LabManagementIndividual\LabManagementIndividual\obj\Debug\LabManagementIndividual.TestModeForm.resources
